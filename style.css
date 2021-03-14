@@ -1,0 +1,38 @@
+body {
+	background-color: #C0C0C0;
+}
+
+h1 {
+	background: #D3D3D3;
+}
+
+.lblue {
+	background: #ADD8E6;
+}
+
+.lyellow {
+	background: #FFFF99;
+}
+
+.lgreen {
+	background: #90EE90;
+}
+
+.lmaroon {
+	background: #A24857;
+}
+
+#div{
+	box-sizing: border-box; 
+	display: inline-block; 
+	height: relative; 
+	padding: 40px; 
+	text-align: center; 
+	width: 33.3%; 
+	white-space: normal; 
+	color: white;
+}
+
+.black{
+	background: black;
+}
