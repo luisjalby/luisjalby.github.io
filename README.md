@@ -1,2 +1,1 @@
-# luisjalby.github.io
-Week 1 - Exercise 1 - Github Page 
+# Luis Jose A. Labay
