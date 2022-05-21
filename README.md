@@ -14,7 +14,7 @@
 ## SOCIALS
 - LinkedIn – linkedin.com/in/luis-jose-labay-656815233
 
->> EDUCATIONAL BACKGROUND
+## EDUCATIONAL BACKGROUND
 
 > University of the Philippines Los Baños
 
