@@ -1,6 +1,6 @@
 # Luis Jose A. Labay
 
-## Computer Science Student
+### Computer Science Student
 
 ### Calamba City, Laguna
 
@@ -15,7 +15,7 @@
 
 >> EDUCATIONAL BACKGROUND
 
-University of the Philippines Los Baños
+- University of the Philippines Los Baños
 
 August 2019 – present
 
