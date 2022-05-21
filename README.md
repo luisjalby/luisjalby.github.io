@@ -1,16 +1,16 @@
-### Luis Jose A. Labay
+# Luis Jose A. Labay
 
 ## Computer Science Student
 
-# Brgy. Canlubang, Calamba City, Laguna
+### Calamba City, Laguna
 
-`lj.labay@yahoo.com / lalabay@up.edu.ph`
+### `lj.labay@yahoo.com` / `lalabay@up.edu.ph`
 
-> (0927) 021 4606
+### (0927) 021 4606
 
 ---
 
-- SOCIALS
+## SOCIALS
 -- LinkedIn – linkedin.com/in/luis-jose-labay-656815233
 
 >> EDUCATIONAL BACKGROUND
