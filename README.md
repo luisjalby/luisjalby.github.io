@@ -11,7 +11,7 @@
 ---
 
 ## SOCIALS
--- LinkedIn – linkedin.com/in/luis-jose-labay-656815233
+- LinkedIn – linkedin.com/in/luis-jose-labay-656815233
 
 >> EDUCATIONAL BACKGROUND
 
@@ -37,27 +37,27 @@
 
 ---
 
->> PROJECTS
+## PROJECTS
 
 > GWA Verifier (KALATAS) (alpha version)
 
-Team project
+- Team project
 
-CMSC 128 – Introduction to Software Engineering
+- CMSC 128 – Introduction to Software Engineering
 
-Team Leader and Software Developer for Backend
+- Team Leader and Software Developer for Backend
 
 > LOLCODE Interpreter (ongoing)
 
-Individual
+- Individual
 
-CMSC 124 – Design and Implementation of Programming Language
+- CMSC 124 – Design and Implementation of Programming Language
 
 > Connect Four Game (4-in-a-row)
 
-Individual
+- Individual
 
-CMSC 12 – Foundations of Computer Science
+- CMSC 12 – Foundations of Computer Science
 
 > Other notable courses
 
@@ -67,28 +67,29 @@ CMSC 12 – Foundations of Computer Science
 
 ---
 
-SOFT SKILLS
+## SOFT SKILLS
 
-Communication
+- Communication
 
-Time Management
+- Time Management
 
-Problem Solving
+- Problem Solving
 
-Adaptability
+- Adaptability
 
-Critical Thinking
+- Critical Thinking
 
 ---
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
-Python
+- Python
 
-C
-JavaScript
+- C
 
-MongoDB
+- JavaScript
 
-Microsoft Office
+- MongoDB
+
+- Microsoft Office
 
