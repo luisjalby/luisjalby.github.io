@@ -1,17 +1,29 @@
 ### Luis Jose A. Labay
-LUIS JOSE A. LABAY
-Computer Science Student
-Brgy. Canlubang, Calamba City, Laguna
-lj.labay@yahoo.com / lalabay@up.edu.ph
-(0927) 021 4606
-SOCIALS
-LinkedIn – linkedin.com/in/luis-jose-labay-656815233
-EDUCATIONAL BACKGROUND
+
+##Computer Science Student
+
+##Brgy. Canlubang, Calamba City, Laguna
+
+`lj.labay@yahoo.com / lalabay@up.edu.ph`
+
+> (0927) 021 4606
+
+- SOCIALS
+---
+--LinkedIn – linkedin.com/in/luis-jose-labay-656815233
+
+>>EDUCATIONAL BACKGROUND
+
 University of the Philippines Los Baños
+
 August 2019 – present
+
 Undergraduate
+
 Bachelor of Science in Computer Science
+
 Malayan Colleges Laguna
+
 June 2017 – July 2019
 Senior High School – STEM
 PROJECTS
