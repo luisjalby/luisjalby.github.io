@@ -4,9 +4,7 @@
 
 - Calamba City, Laguna
 
-- `lj.labay@yahoo.com` / `lalabay@up.edu.ph`
-
-- (0927) 021 4606
+- `lj.labay@yahoo.com`
 
 
 ---
