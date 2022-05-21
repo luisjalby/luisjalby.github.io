@@ -1,12 +1,12 @@
 # Luis Jose A. Labay
 
-### Computer Science Student
+- Computer Science Student
 
-### Calamba City, Laguna
+- Calamba City, Laguna
 
-### `lj.labay@yahoo.com` / `lalabay@up.edu.ph`
+- `lj.labay@yahoo.com` / `lalabay@up.edu.ph`
 
-### (0927) 021 4606
+- (0927) 021 4606
 
 ---
 
@@ -15,23 +15,30 @@
 
 >> EDUCATIONAL BACKGROUND
 
-- University of the Philippines Los Baños
+> University of the Philippines Los Baños
 
-August 2019 – present
+ - August 2019 – present
 
-Undergraduate
+- Undergraduate
 
-Bachelor of Science in Computer Science
+- Bachelor of Science in Computer Science
 
-Malayan Colleges Laguna
+> Malayan Colleges Laguna
 
-June 2017 – July 2019
+- June 2017 – July 2019
 
-Senior High School – STEM
+- Senior High School – STEM
+
+> Philippine International School-Qatar
+
+- June 2013 – April 2017
+
+- Junior High School
 
 ---
 
 >> PROJECTS
+
 > GWA Verifier (KALATAS) (alpha version)
 
 Team project
@@ -46,21 +53,17 @@ Individual
 
 CMSC 124 – Design and Implementation of Programming Language
 
-Connect Four Game (4-in-a-row)
+> Connect Four Game (4-in-a-row)
 
 Individual
 
 CMSC 12 – Foundations of Computer Science
 
-Other notable courses
+> Other notable courses
 
-CMSC 123 – Data Structures
+- CMSC 123 – Data Structures
 
-Philippine International School-Qatar
 
-June 2013 – April 2017
-
-Junior High School
 
 ---
 
