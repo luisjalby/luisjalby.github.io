@@ -8,6 +8,7 @@
 
 - (0927) 021 4606
 
+
 ---
 
 ## SOCIALS
@@ -34,6 +35,7 @@
 - June 2013 – April 2017
 
 - Junior High School
+
 
 ---
 
@@ -78,6 +80,7 @@
 - Adaptability
 
 - Critical Thinking
+
 
 ---
 
